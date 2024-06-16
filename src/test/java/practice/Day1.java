@@ -24,7 +24,6 @@ public class Day1 {
 		given()
 		.pathParam("mypath","users")
 		.queryParam("page", 2)
-		
 		.when()
 			.get("https://reqres.in/api/{mypath}")
 		
