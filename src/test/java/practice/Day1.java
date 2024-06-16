@@ -33,6 +33,7 @@ public class Day1 {
 			.log().all();			
 	}
 	
+	//Test
 	//hashmap method
 	//@Test
 	void createuser() {
